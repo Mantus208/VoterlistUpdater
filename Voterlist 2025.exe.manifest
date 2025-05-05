@@ -811,14 +811,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Voterlist 2025.exe" size="781280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Voterlist 2025.exe" size="801760">
       <assemblyIdentity name="Voterlist 2025" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6JUsRaVNKVxi2sqogMcD74KX1LaxEzizu4v7CFDtagY=</dsig:DigestValue>
+        <dsig:DigestValue>o1cAn8HxZYfsn3gEcYkptPT0iRRtWTxMTZ7RrUWFhmA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
